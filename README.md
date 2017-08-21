@@ -74,7 +74,7 @@ POST /v1/user
 
 ```json
 202 Accepted
-Location: http://127.0.0.1:8080/v1/user/433ba885-a37f-4b6d-ac2a-d5ec6bdca1
+Location: http://127.0.0.1:8080/v1/user/433ba885-a37f-4b6d-ac2a-d5ec6bdca10d
 {
   "id":"433ba885-a37f-4b6d-ac2a-d5ec6bdca10d"
 }
