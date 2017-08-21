@@ -5,7 +5,7 @@ A simple REST-like API for transferring money between accounts.
 
 ## Running
 
-You need [sbt] version 0.13.x (tested with 0.13.16).
+You need [sbt] version 0.13.x (tested with 0.13.16) and Java 8.
 
 Check out the repository and run the following:
 
